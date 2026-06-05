@@ -1,8 +1,7 @@
-<img width="1536" height="1024" alt="diagram" src="https://github.com/user-attachments/assets/19ce06f2-d5bd-4b92-9ef8-c24a78e1a5a2" /># Networking_Task1
- Networking Task 01: Understanding Your Network Environment
+Networking Task 01: Understanding Your Network Environment
 
 Part A: Network Information
- 
+<img width="1472" height="750" alt="Screenshot 2026-06-05 104510" src="https://github.com/user-attachments/assets/5850d876-148f-4e61-8886-956b0e927bf5" />
 
 Part B: Basic Networking Concepts
 1. What is an IP Address?
