@@ -32,6 +32,7 @@ Example: 8.8.8.8	Example: 192.168.1.10
 Used for communication over the internet.	Used for communication within homes, offices, and organizations.
 
 Part C: Create a Basic Network Diagram
- <img width="1536" height="1024" alt="diagram" src="https://github.com/user-attachments/assets/aaf79483-10f1-4ca8-a984-9b96f957dd9c" />
+ <img width="1536" height="1024" alt="networkingdiagram" src="https://github.com/user-attachments/assets/d667ac34-599d-4faa-a91c-cef2aaf59770" />
+
 
 
